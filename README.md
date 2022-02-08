@@ -18,5 +18,5 @@ There could be different analysis that can be done here, I have also looked into
 ### Moreover: 
 Footballers tend to be very athletic that also means light-weight which can give us an ideal range as to how many pounds to they weigh and that might determine their positon in a way. Like strong players at the defence, and light players that are quick in the attacking position. 
 
-### Fianlly
+### Finally
 I also looked into the Club ranking of the top 3 clubs with a box plot, this can helps us give a significant ranking of the clubs based on their performances over the years.
