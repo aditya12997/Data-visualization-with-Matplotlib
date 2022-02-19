@@ -2,6 +2,12 @@
 
 In this notebook I have showcased how different methods can be used to demonstrate different information about the datasets with Matplotlib and why such visualizations can be useful. 
 
+
+## 1. Football Pass Network Map 
+With the help of MPL soccer library and Pandas I was able to manipulate the data and extract meaningful insights about Barcelona style of Play.
+Here I cleaned the data by removing the null values and only considered values from the start until the first susbtitution was made. 
+This passing network depicts the playing style of Barcelona and how do they manage they ball possession in different positions. 
+
 I have used two interesting datasets of gas prices in different countries and FIFA dataset.
 
 With the help of these datasets I could implement my knowledge of Matplotlib and Pandas where I could demonstrate different type of visuals and the analysis of data one can do with these visuals. 
