@@ -12,11 +12,11 @@ I have used two interesting datasets of gas prices in different countries and FI
 
 With the help of these datasets I could implement my knowledge of Matplotlib and Pandas where I could demonstrate different type of visuals and the analysis of data one can do with these visuals. 
 
-# With Gas prices:
+# 2. With Gas prices:
 I looked into what countries has the most expensive gas price as per USD and one can also have a specific view to their preferred countries and see the trend lines to analyse the different scenarios. 
 
 
-# With the FiFa dataset because I'm a football fanatic:
+# 3. With the FiFa dataset because I'm a football fanatic:
 I looked into the number of players and their skill level with a a histogram as it gives me an idea as to how many players are there in that distribution. 
 
 There could be different analysis that can be done here, I have also looked into the players preferred foot as that could be analysed with the dataset. 
